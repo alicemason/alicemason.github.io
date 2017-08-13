@@ -9,12 +9,12 @@
 locale                   : "en"
 title                    : "Alice Mason"
 title_separator          : "-"
-name                     : "Alice Mason"
+name                     : "Dr Alice Mason"
 description              : "Research Associate in Cognitive Science at UWA."
 url                      : "https://am8302.github.io"
 baseurl                  : #
 repository               : "am8302/am8302.github.io"
-teaser                   :  #
+teaser                   :  /assets/images/water.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : alicemason89
 facebook:
   username               :
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alice Mason"
+  name             : "Dr Alice Mason"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Congitive scientist researching memory, decision-making and reward."
-  location         : "University Western Australia"
+  bio              : "cognitive scientist | memory | decision-making | reward."
+  location         : "Australia"
   email            : "alice.mason@uwa.edu.au"
-  uri              :
+  uri              : http://www.web.uwa.edu.au/person/alice.mason
   bitbucket        :
   codepen          :
   dribbble         :
@@ -231,10 +231,11 @@ compress_html:
   ignore:
     envs: development
 
+include: ["_pages"]
 
 # Defaults
-defaults:
-  # _posts
+defaults: 
+#_posts
   - scope:
       path: ""
       type: posts
@@ -245,9 +246,6 @@ defaults:
       comments: # true
       share: true
       related: true
-
-      defaults:
-
 # _pages
   - scope:
       path: ""

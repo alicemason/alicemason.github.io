@@ -1,23 +1,31 @@
- ----
- title: Research
+---
+ layout: archive
+ permalink: /_pages/research/
+ title: "Research"
  header:
-  image: /assets/images/brain.png.jpg
-  image_description: "Research Interests"
-  cta_label: "Publications"
-  cta_url: "https://scholar.google.com/citations?user=QzkQT9EAAAAJ&hl=en"
-----
+   overlay_image: "/assets/images/Rinjani.jpg"
+---
 
-# Memory and evalualtion
+# Themes
 
-Preferences and judgements are unstable. Understanding how memory contributes to evaultuations helps to explain this instability. Retrieving samples from memory is a critical tool for decision-making. 
+## Memory and evaluation
+
+Preferences and judgements are unstable. Understanding how memory contributes to evaluations helps to explain this instability. Retrieving samples from memory is a critical tool for decision-making. 
 
 * Is there is indeed a trade-off between memory-based and moment-by-moment strategies in evaluation?
 * Which features of memory predict evalution?
 
-# Reward-related consolidation and sleep in motivated and incidenatl learning 
+## Reward-related consolidation
 
-# Risk-taking, memory and Parkinson's disease
+We are constantly encoding information; however, relatively little of that information is eventually consolidated and stored in memory. In order to be adaptive, memory must be selective and prioritise information that is relevant to future decisions. There are many ways in which reward can affect the consolidation of newly learned material. For example, students studying for exams may be actively focusing their attention and resources to promote certain items in memory (*motivated* learning). In other situations the value of the information is more incidental; for example, a child might enjoy interacting with a new object and therefore be more likely to remember its name (*incidental* learning). Sleep is a primacy mechanism by which items are integrated and consolidated in memory but how does it affect the consolidation of rewarded items in both incidental and motivated learning?
 
-# Obesity and impulsitivity 
+## Obesity and impulsitivity
+
+During my post at the Nutrition and Behaviour Unit at the University of Bristol I worked on several projects examining the role of satiety reward in food choice.
+
+You can read a bit more about our latest study looking at future choices and obesity [here](https://scienmag.com/obese-and-overweight-less-likely-to-consider-next-meal-when-making-portion-size-decisions/).  
+
+## Risk-taking, memory and Parkinson's disease
+
 
 More coming soon...

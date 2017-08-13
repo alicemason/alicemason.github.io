@@ -1,10 +1,13 @@
 # main links
 main:
 - title: "research"
-  url: /research/
-- title: "podcast"
-  url: /podcast/
-- title: "Publications"
+  url: /_pages/research/
+- title: "publications"
   url: "https://scholar.google.com/citations?user=QzkQT9EAAAAJ&hl=en"
-- title: "CV"
+- title: "cv"
   url: "https://www.dropbox.com/s/u1489tky1mwpsas/AliceCV.pdf?dl=0"
+- title: "podcast"
+  url: /_pages/podcast/
+- title: "blog"
+  url: /_posts/archive/
+
