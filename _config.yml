@@ -10,11 +10,11 @@ locale                   : "en"
 title                    : "Alice Mason"
 title_separator          : "-"
 name                     : "Alice Mason"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Research Associate in Cognitive Science at UWA."
+url                      : "https://am8302.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "am8302/am8302.github.io"
+teaser                   :  "/assets/images/Rinjani.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Alice Mason"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Congitive scientist researching memory, decision-making and reward."
+  location         : "University Western Australia"
+  email            : "alice.mason@uwa.edu.au"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : alicemason89
+  twitter          : "alicemason89"
   vine             :
   weibo            :
   xing             :
