@@ -9,5 +9,5 @@ main:
 - title: "podcast"
   url: /_pages/podcast/
 - title: "blog"
-  url: /_posts/archive/
+  url: /_pages/archive-posts/
 

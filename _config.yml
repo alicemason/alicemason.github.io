@@ -11,9 +11,9 @@ title                    : "Alice Mason"
 title_separator          : "-"
 name                     : "Dr Alice Mason"
 description              : "Research Associate in Cognitive Science at UWA."
-url                      : "https://am8302.github.io"
+url                      : "https://alicemason.github.io/psy"
 baseurl                  : #
-repository               : "am8302/am8302.github.io"
+repository               : "alicemason/alicemason.github.io"
 teaser                   :  /assets/images/water.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

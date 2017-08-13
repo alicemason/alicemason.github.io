@@ -3,7 +3,8 @@
  permalink: /_pages/research/
  title: "Research"
  header:
-   overlay_image: "/assets/images/Rinjani.jpg"
+   overlay_image: "/assets/images/kayak.jpg"
+ author_profile: false  
 ---
 
 # Themes
