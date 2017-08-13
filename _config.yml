@@ -14,7 +14,7 @@ description              : "Research Associate in Cognitive Science at UWA."
 url                      : "https://am8302.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "am8302/am8302.github.io"
-teaser                   :  "/assets/images/Rinjani.png"
+teaser                   :  #
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Mason"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Congitive scientist researching memory, decision-making and reward."
   location         : "University Western Australia"
   email            : "alice.mason@uwa.edu.au"
@@ -105,7 +105,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
@@ -239,7 +239,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: # true
