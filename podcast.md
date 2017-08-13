@@ -1,11 +1,9 @@
 
  ----
- permalink: /podcast/
  title: Podcast
- layout: default
- header:
- image: /assets/images/BigBen.jpg
- image_description: "The State of our Knowledge"
+  header:
+   image: /assets/images/BigBen.jpg
+   image_description: "The State of our Knowledge"
 
 ----
 
