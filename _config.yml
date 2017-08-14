@@ -11,7 +11,7 @@ title                    : "Alice Mason"
 title_separator          : "-"
 name                     : "Dr Alice Mason"
 description              : "Research Associate in Cognitive Science at UWA."
-url                      : "https://alicemason.github.io/psy"
+url                      : "https://alicemason.github.io"
 baseurl                  : #
 repository               : "alicemason/alicemason.github.io"
 teaser                   :  /assets/images/water.jpg
@@ -173,8 +173,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: #5 # amount of posts to show
+paginate_path: #/page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
