@@ -26,7 +26,4 @@ During my post at the Nutrition and Behaviour Unit at the University of Bristol 
 
 You can read a bit more about our latest study looking at future choices and obesity [here](https://scienmag.com/obese-and-overweight-less-likely-to-consider-next-meal-when-making-portion-size-decisions/).  
 
-## Risk-taking, memory and Parkinson's disease
-
-
 More coming soon...
