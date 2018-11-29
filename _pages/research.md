@@ -9,12 +9,15 @@
 
 # Themes
 
-## Memory and evaluation
+## Memory and risky choice 
 
-Preferences and judgements are unstable. Understanding how memory contributes to evaluations helps to explain this instability. Retrieving samples from memory is a critical tool for decision-making. 
+Decision-making involves evaluating options by searching for and sampling information from both memory and the
+environment. Not all information is equal and some items are more likely to be encoded in and retrieved from
+memory.  During my fellowship I will investigate how our memory for rewarding events, both extreme and rare, contributes to decision-making and risky choices. 
 
-* Is there is indeed a trade-off between memory-based and moment-by-moment strategies in evaluation?
-* Which features of memory predict evalution?
+### Memory and evaluation
+
+Decisions are often based on the  preferences and judgements we form, which are unstable. Understanding how memory contributes to retrospective evaluations can helps to explain this instability. In this work we have been examining whether there is a a trade-off between memory-based and moment-by-moment strategies in evaluation and which features of memory predict evalution. 
 
 ## Reward-related consolidation
 
@@ -26,4 +29,4 @@ During my post at the Nutrition and Behaviour Unit at the University of Bristol 
 
 You can read a bit more about our latest study looking at future choices and obesity [here](https://scienmag.com/obese-and-overweight-less-likely-to-consider-next-meal-when-making-portion-size-decisions/).  
 
-More coming soon...
+
