@@ -6,8 +6,5 @@ main:
   url: "https://scholar.google.com/citations?user=QzkQT9EAAAAJ&hl=en"
 - title: "cv"
   url: "https://www.dropbox.com/s/b2c9rbgcbjaj667/AM_CV_Web.pdf?dl=0"
-- title: "podcast"
-  url: /_pages/podcast/
-- title: "blog"
-  url: /_pages/archive-posts/
+
 
